@@ -7,7 +7,7 @@ Também crio diversos Designs para meus trabalhos
 <br>
 
 ### :file_folder: Meus projetos
-Estou participando em um projeto de Pegada Ecológica. Meu papel é suporte no BackEnd e criação visual das páginas. <br>
+Estou participando em um projeto de Pegada Ecológica. Meu papel é dar suporte no BackEnd e na criação visual das páginas. <br>
 Veja minhas criações!!!
 <br>
 
