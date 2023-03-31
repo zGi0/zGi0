@@ -1,7 +1,7 @@
-### Olá, meu nome é Giovanni, prazer! 👋
+## Olá, meu nome é Giovanni, prazer! 👋
 
-## ⚡ Sobre mim ⚡
+### ⚡ Sobre mim ⚡
 
-# Gosto muito de tecnologia e design, estou sempre tentando aprender o máximo que puder
+#### Gosto muito de tecnologia e design, estou sempre tentando aprender o máximo que puder
 
-## ⚡ Meus projetos ⚡
+### ⚡ Meus projetos ⚡
