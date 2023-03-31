@@ -26,7 +26,7 @@ Veja minhas criações!!!
 
 <a href="https://www.figma.com/file/se9WVH5Qd3Jrmm5uYTLrqD/telaResultado?t=CFWvNSLIgK9AMQYa-6">Tela do Resultado</a>
 <br>
-<img style="width: 40%; height: 40%" src="https://user-images.githubusercontent.com/82301731/229011575-bfce803c-3a84-4ca4-aa7f-42952a0fd4e6.png">
+<img style="width: 20%; height: 20%" src="https://user-images.githubusercontent.com/82301731/229011575-bfce803c-3a84-4ca4-aa7f-42952a0fd4e6.png">
 <br>
 <br>
 
