@@ -12,8 +12,7 @@ Veja minhas criações!!!
 <br>
 
 <a href="https://www.figma.com/file/54dewYGjocdFVafZdo2jc4/pegadaecologicadesign2?t=uONlpmsG1vRaZQpU-1">Tela inicial</a>
-<img src="https://user-images.githubusercontent.com/82301731/229010856-c057b3b2-9bf6-4bc0-8529-91605ecbccae.png
-">
+<img src="https://user-images.githubusercontent.com/82301731/229010856-c057b3b2-9bf6-4bc0-8529-91605ecbccae.png">
 <br>
 <a href="https://www.figma.com/file/LsCciXBSi0DoScpJfKoVp5/telaQuiz?t=m7s8e31eRGFU9Vuk-6">Tela de QUIZ</a>
 <br>
