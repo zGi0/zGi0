@@ -2,11 +2,11 @@
 
 ### ⚡ Sobre mim
 
-#### Gosto muito de tecnologia, estou sempre tentando aprender o máximo que puder
+#### Gosto muito de tecnologia, estou sempre aprendendo coisas novas
 #### Também crio diversos Designs para meus trabalhos
 
 ### ✔️ Meus projetos
-Estou participando em um projeto de Pegada Ecológica. Atualmente, crio o design das páginas e dou suporte no BackEnd. <br>
+Estou participando em um projeto de Pegada Ecológica. Meu papel é suporte no BackEnd e criação visual das páginas. <br>
 Veja minhas criações!!!
 <br>
 
