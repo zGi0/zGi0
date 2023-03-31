@@ -15,3 +15,8 @@ Veja minhas criações!!!
 <a href="https://www.figma.com/file/LsCciXBSi0DoScpJfKoVp5/telaQuiz?t=m7s8e31eRGFU9Vuk-6">Tela de QUIZ</a>
 <br>
 <a href="https://www.figma.com/file/se9WVH5Qd3Jrmm5uYTLrqD/telaResultado?t=CFWvNSLIgK9AMQYa-6">Tela do Resultado</a>
+
+
+### Contatos
+
+<a href="https://www.linkedin.com/in/giovanni-dos-santos-almeida-lombone-rodrigues-607a73209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
