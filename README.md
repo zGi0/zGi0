@@ -2,8 +2,9 @@
 
 ### ⚡ Sobre mim
 
-#### Gosto muito de tecnologia, estou sempre aprendendo coisas novas
-#### Também crio diversos Designs para meus trabalhos
+Gosto muito de tecnologia, estou sempre aprendendo coisas novas <br>
+Também crio diversos Designs para meus trabalhos
+<br>
 
 ### ✔️ Meus projetos
 Estou participando em um projeto de Pegada Ecológica. Meu papel é suporte no BackEnd e criação visual das páginas. <br>
