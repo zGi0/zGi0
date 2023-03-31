@@ -13,7 +13,7 @@ Veja minhas criações!!!
 
 <a href="https://www.figma.com/file/54dewYGjocdFVafZdo2jc4/pegadaecologicadesign2?t=uONlpmsG1vRaZQpU-1">Tela Inicial</a>
 <br>
-<img src="https://user-images.githubusercontent.com/82301731/229010856-c057b3b2-9bf6-4bc0-8529-91605ecbccae.png">
+<img style="width: 40%; height: 40%" src="https://user-images.githubusercontent.com/82301731/229010856-c057b3b2-9bf6-4bc0-8529-91605ecbccae.png">
 <br>
 <br>
 
@@ -25,7 +25,10 @@ Veja minhas criações!!!
 
 
 <a href="https://www.figma.com/file/se9WVH5Qd3Jrmm5uYTLrqD/telaResultado?t=CFWvNSLIgK9AMQYa-6">Tela do Resultado</a>
-
+<br>
+<img style="width: 40%; height: 40%" src="https://user-images.githubusercontent.com/82301731/229011575-bfce803c-3a84-4ca4-aa7f-42952a0fd4e6.png">
+<br>
+<br>
 
 ### Contatos
 
