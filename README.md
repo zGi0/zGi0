@@ -16,8 +16,14 @@ Veja minhas criações!!!
 <img src="https://user-images.githubusercontent.com/82301731/229010856-c057b3b2-9bf6-4bc0-8529-91605ecbccae.png">
 <br>
 <br>
+
 <a href="https://www.figma.com/file/LsCciXBSi0DoScpJfKoVp5/telaQuiz?t=m7s8e31eRGFU9Vuk-6">Tela de QUIZ</a>
 <br>
+<img style="width: 40%; height: 40%" src="https://user-images.githubusercontent.com/82301731/229011273-7b1888fd-e0a4-4992-b020-b00d872d29b4.png">
+<br>
+<br>
+
+
 <a href="https://www.figma.com/file/se9WVH5Qd3Jrmm5uYTLrqD/telaResultado?t=CFWvNSLIgK9AMQYa-6">Tela do Resultado</a>
 
 
