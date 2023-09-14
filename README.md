@@ -29,6 +29,10 @@ Veja minhas criações!!!
 <br>
 <br>
 
+### Projeto de Conclusão de Curso
+<a href="greenlight.dev.br">Clique aqui</a> e veja o principal projeto que estive trabalhando.
+<br>
+<br>
 ### Contatos
 
 <a href="https://www.linkedin.com/in/giovanni-dos-santos-almeida-lombone-rodrigues-607a73209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
