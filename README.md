@@ -7,10 +7,12 @@ Também crio diversos Designs para meus trabalhos
 <br>
 
 ### :file_folder: Meus projetos
-Estou participando em um projeto de Pegada Ecológica. Meu papel é dar suporte no BackEnd e na criação visual das páginas. <br>
-Veja minhas criações!!!
+Estou participando em um projeto de Pegada Ecológica. Meu papel é dar suporte no BackEnd e na criação visual das páginas. <a href="https://greenlight.dev.br">Clique aqui</a> e veja ele rodando.
+<br>
+<br>
 <br>
 
+### Algumas telas que fiz
 <a href="https://www.figma.com/file/54dewYGjocdFVafZdo2jc4/pegadaecologicadesign2?t=uONlpmsG1vRaZQpU-1">Tela Inicial</a>
 <br>
 <img style="width: 30%; height: 30%" src="https://user-images.githubusercontent.com/82301731/229010856-c057b3b2-9bf6-4bc0-8529-91605ecbccae.png">
@@ -29,10 +31,6 @@ Veja minhas criações!!!
 <br>
 <br>
 
-### Projeto de Conclusão de Curso
-<a href="https://greenlight.dev.br">Clique aqui</a> e veja o principal projeto que estive trabalhando.
-<br>
-<br>
 ### Contatos
 
 <a href="https://www.linkedin.com/in/giovanni-dos-santos-almeida-lombone-rodrigues-607a73209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
