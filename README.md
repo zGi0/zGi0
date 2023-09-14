@@ -30,7 +30,7 @@ Veja minhas criações!!!
 <br>
 
 ### Projeto de Conclusão de Curso
-<a href="greenlight.dev.br">Clique aqui</a> e veja o principal projeto que estive trabalhando.
+<a href="https://greenlight.dev.br">Clique aqui</a> e veja o principal projeto que estive trabalhando.
 <br>
 <br>
 ### Contatos
