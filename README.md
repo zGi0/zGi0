@@ -29,6 +29,8 @@ Estou participando em um projeto de Pegada Ecológica. Meu papel é dar suporte 
 <br>
 <img style="width: 20%; height: 20%" src="https://github.com/zGi0/zGi0/assets/82301731/f23d8f45-76a8-4412-8e31-b75d8840872a">
 <br>
+Veja mais no <a href="https://github.com/XaropinhoS20/PegadaEcologica">Github do Projeto!</a>
+<br>
 <br>
 
 ### Contatos
