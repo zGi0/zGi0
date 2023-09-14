@@ -13,9 +13,9 @@ Estou participando em um projeto de Pegada Ecológica. Meu papel é dar suporte 
 <br>
 
 ### Algumas telas que fiz
-<a href="https://www.figma.com/file/54dewYGjocdFVafZdo2jc4/pegadaecologicadesign2?t=uONlpmsG1vRaZQpU-1">Tela Inicial</a>
+<a href="https://www.figma.com/proto/uwZZIuz3VS89PIZ1s5svam/LandingPageFinal?node-id=994-2">Landing Page</a>
 <br>
-<img style="width: 30%; height: 30%" src="https://user-images.githubusercontent.com/82301731/229010856-c057b3b2-9bf6-4bc0-8529-91605ecbccae.png">
+<img style="width: 30%; height: 30%" src="https://github.com/zGi0/zGi0/assets/82301731/cf8c59f0-bc49-4c93-a216-a7c6d83764b6">
 <br><br>
 
 <a href="https://www.figma.com/file/LsCciXBSi0DoScpJfKoVp5/telaQuiz?t=m7s8e31eRGFU9Vuk-6">Tela de QUIZ</a>
@@ -25,9 +25,9 @@ Estou participando em um projeto de Pegada Ecológica. Meu papel é dar suporte 
 <br>
 
 
-<a href="https://www.figma.com/file/se9WVH5Qd3Jrmm5uYTLrqD/telaResultado?t=CFWvNSLIgK9AMQYa-6">Tela do Resultado</a>
+<a href="https://www.figma.com/proto/pZmyB8fUsQ73fIpFKIxXJz/Média-Global?node-id=176-2">Média Global</a>
 <br>
-<img style="width: 20%; height: 20%" src="https://user-images.githubusercontent.com/82301731/229011575-bfce803c-3a84-4ca4-aa7f-42952a0fd4e6.png">
+<img style="width: 20%; height: 20%" src="https://github.com/zGi0/zGi0/assets/82301731/f23d8f45-76a8-4412-8e31-b75d8840872a">
 <br>
 <br>
 
