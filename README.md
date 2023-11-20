@@ -2,7 +2,7 @@
 
 ### ⚡ Sobre mim
 
-Gosto de elaborar telas e programação. Sinta-se à vontade para checar meus projetos. Meu principal foco, no momento, é um <a href="https://greenlight.dev.br">site de Pegada Ecológica que estamos desenvolvendo para o Programa de Educação Ambiental da CSN.</a>
+Gosto de elaborar telas e programar o que vier na mente. Sinta-se à vontade para checar meus projetos. Meu principal foco, no momento, é um <a href="https://greenlight.dev.br">site de Pegada Ecológica que estamos desenvolvendo para o <b>Programa de Educação Ambiental da CSN.</b></a>
 <br>
 
 ### :file_folder: Meus projetos
@@ -13,12 +13,12 @@ Atualmente, estou inserido em um projeto de Pegada Ecológica. Meu papel princip
 
 ### Algumas telas que fiz
 <a href="https://www.figma.com/proto/uwZZIuz3VS89PIZ1s5svam/LandingPageFinal?node-id=994-2">
-  <img src="https://github.com/zGi0/zGi0/assets/82301731/cf8c59f0-bc49-4c93-a216-a7c6d83764b6">
+  <img src="https://github.com/zGi0/zGi0/assets/82301731/7572d2bb-eca3-4486-937c-68d59531a3b6">
 </a>
 <br>
 
 <a href="https://www.figma.com/file/LsCciXBSi0DoScpJfKoVp5/telaQuiz?t=m7s8e31eRGFU9Vuk-6">
-  <img src="https://user-images.githubusercontent.com/82301731/229011273-7b1888fd-e0a4-4992-b020-b00d872d29b4.png">
+  <img src="https://github.com/zGi0/zGi0/assets/82301731/c563865e-9e16-47f3-88fe-9d29bedee685">
 </a>
 <br>
 
