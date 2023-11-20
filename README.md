@@ -18,10 +18,9 @@ Estou participando em um projeto de Pegada Ecológica. Meu papel é dar suporte 
 <img style="width: 30%; height: 30%" src="https://github.com/zGi0/zGi0/assets/82301731/cf8c59f0-bc49-4c93-a216-a7c6d83764b6">
 <br><br>
 
-<a href="https://www.figma.com/file/LsCciXBSi0DoScpJfKoVp5/telaQuiz?t=m7s8e31eRGFU9Vuk-6">Tela de QUIZ</a>
-<br>
-<img style="width: 30%; height: 30%" src="https://user-images.githubusercontent.com/82301731/229011273-7b1888fd-e0a4-4992-b020-b00d872d29b4.png">
-<br>
+<a href="https://www.figma.com/file/LsCciXBSi0DoScpJfKoVp5/telaQuiz?t=m7s8e31eRGFU9Vuk-6">
+  <img src="https://user-images.githubusercontent.com/82301731/229011273-7b1888fd-e0a4-4992-b020-b00d872d29b4.png">
+</a>
 <br>
 
 
