@@ -11,7 +11,7 @@ Atualmente, estou inserido em um projeto de Pegada Ecológica. Meu papel princip
 <br>
 <br>
 
-### Algumas das telas que fiz usando as tecnologias citadas
+## Algumas das telas que fiz usando as tecnologias citadas
 <a href="https://www.figma.com/proto/uwZZIuz3VS89PIZ1s5svam/LandingPageFinal?node-id=994-2">
   <img src="https://github.com/zGi0/zGi0/assets/82301731/7572d2bb-eca3-4486-937c-68d59531a3b6">
 </a>
