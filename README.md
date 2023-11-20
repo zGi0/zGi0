@@ -2,21 +2,20 @@
 
 ### ⚡ Sobre mim
 
-Gosto muito de tecnologia, estou sempre aprendendo coisas novas <br>
-Também crio diversos Designs para meus trabalhos
+Gosto de elaborar telas e programação. Sinta-se à vontade para checar meus projetos. Meu principal foco, no momento, é um <a href="https://greenlight.dev.br">site de Pegada Ecológica que estamos desenvolvendo para o Programa de Educação Ambiental da CSN.</a>
 <br>
 
 ### :file_folder: Meus projetos
-Estou participando em um projeto de Pegada Ecológica. Meu papel é dar suporte no BackEnd e na criação visual das páginas. <a href="https://greenlight.dev.br">Clique aqui</a> e veja ele rodando.
+Atualmente, estou inserido em um projeto de Pegada Ecológica. Meu papel principal é criar o design das páginas através do FIGMA, e programá-las usando HTML, CSS, JAVASCRIPT, REACT e Bootstrap. Também faço a parte do Back-End e do banco de dados em PHP e MYSQL. <a href="https://greenlight.dev.br">Acesse meu projeto!</a>
 <br>
 <br>
 <br>
 
 ### Algumas telas que fiz
-<a href="https://www.figma.com/proto/uwZZIuz3VS89PIZ1s5svam/LandingPageFinal?node-id=994-2">Landing Page</a>
+<a href="https://www.figma.com/proto/uwZZIuz3VS89PIZ1s5svam/LandingPageFinal?node-id=994-2">
+  <img src="https://github.com/zGi0/zGi0/assets/82301731/cf8c59f0-bc49-4c93-a216-a7c6d83764b6">
+</a>
 <br>
-<img style="width: 30%; height: 30%" src="https://github.com/zGi0/zGi0/assets/82301731/cf8c59f0-bc49-4c93-a216-a7c6d83764b6">
-<br><br>
 
 <a href="https://www.figma.com/file/LsCciXBSi0DoScpJfKoVp5/telaQuiz?t=m7s8e31eRGFU9Vuk-6">
   <img src="https://user-images.githubusercontent.com/82301731/229011273-7b1888fd-e0a4-4992-b020-b00d872d29b4.png">
@@ -24,10 +23,11 @@ Estou participando em um projeto de Pegada Ecológica. Meu papel é dar suporte 
 <br>
 
 
-<a href="https://www.figma.com/proto/pZmyB8fUsQ73fIpFKIxXJz/Média-Global?node-id=176-2">Média Global</a>
+<a href="https://www.figma.com/proto/pZmyB8fUsQ73fIpFKIxXJz/Média-Global?node-id=176-2">
+<img src="https://github.com/zGi0/zGi0/assets/82301731/f23d8f45-76a8-4412-8e31-b75d8840872a">
+</a>
 <br>
-<img style="width: 20%; height: 20%" src="https://github.com/zGi0/zGi0/assets/82301731/f23d8f45-76a8-4412-8e31-b75d8840872a">
-<br>
+
 Veja mais no <a href="https://github.com/XaropinhoS20/PegadaEcologica">Github do Projeto!</a>
 <br>
 <br>
