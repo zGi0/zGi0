@@ -24,7 +24,7 @@ Atualmente, estou inserido em um projeto de Pegada Ecológica. Meu papel princip
 
 
 <a href="https://www.figma.com/proto/pZmyB8fUsQ73fIpFKIxXJz/Média-Global?node-id=176-2">
-<img src="https://github.com/zGi0/zGi0/assets/82301731/f23d8f45-76a8-4412-8e31-b75d8840872a">
+<img src="https://github.com/zGi0/zGi0/assets/82301731/999919e5-8ee3-4bc2-98e1-03dbe7325231">
 </a>
 <br>
 
